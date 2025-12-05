@@ -254,4 +254,5 @@ int main() {
 
     printf("\033[?25h"); // Show cursor
     return 0;
+    system("pause");
 }
